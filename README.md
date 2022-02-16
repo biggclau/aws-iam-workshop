@@ -2,7 +2,7 @@
 
 ![architecture.png](./images/architecture-diagram.png)
 
-This Project will take you basic step by step how to create **IAM user**, launch **EC2 instance** with **IAM role**, access **S3 bucket using temporary credential**, and enabling **CloudTrail**.
+This Project will walk you through basic step by step on how to create **IAM user**, launch **EC2 instance** with **IAM role**, access **S3 bucket using temporary credential**, and enabling **CloudTrail**.
 
 
 ## Implementation Steps
